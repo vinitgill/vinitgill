@@ -68,6 +68,7 @@ contact:
   - website: https://automazior.in
   - linkedin: https://www.linkedin.com/in/vinitgill
   - github: https://github.com/vinitgill
+  - leetcode: https://leetcode.com/u/vinitgill_04
 ~~~
 
 ---
