@@ -113,27 +113,23 @@ contact:
 ## 🌐 Profile Insights
 
 <p align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=vinitgill&label=PROFILE+VIEWS&style=for-the-badge&color=2563EB"/>
-
-  <img src="https://img.shields.io/github/followers/vinitgill?label=FOLLOWERS&style=for-the-badge&logo=github&color=181717"/>
-
-  <img src="https://img.shields.io/github/stars/vinitgill?affiliations=OWNER&label=TOTAL+STARS&style=for-the-badge&color=F59E0B"/>
-
+  <img src="https://komarev.com/ghpvc/?username=vinitgill&label=Profile%20Views&style=for-the-badge&color=0A66C2" />
+  <img src="https://img.shields.io/github/followers/vinitgill?label=Followers&style=for-the-badge&logo=github&color=181717" />
+  <img src="https://img.shields.io/github/stars/vinitgill?affiliations=OWNER&label=Stars&style=for-the-badge&color=F59E0B" />
 </p>
 
 <p align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=vinitgill&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vinitgill&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vinitgill&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinitgill&theme=github-compact&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitgill&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinitgill&theme=tokyo-night&hide_border=true" />
+</p>
 ---
 
 
