@@ -77,6 +77,7 @@ contact:
 | Project | Description | Stack |
 |---|---:|:---|
 | **Heart Disease Prediction** | Machine Learning model made from raw data for advanced analysis of heart disease prediction | Python, Jupyter |
+| **AI Translator** | AI-powered multilingual translator with automatic language detection, real-time translation, speech-to-text, text-to-speech, and translation history. Deployed using React, FastAPI, and Vercel. | React, FastAPI, Python |
 
 ---
 
