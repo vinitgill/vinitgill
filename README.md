@@ -111,35 +111,15 @@ contact:
 ---
 
 ### 🌐 Profile Insights
-
-### 🌐 Profile Insights
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vinitgill&label=Profile%20Views&color=6366f1&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/vinitgill?label=Followers&style=for-the-badge&color=6366f1"/>
-  <img src="https://img.shields.io/github/stars/vinitgill?affiliations=OWNER&label=Stars&style=for-the-badge&color=f59e0b"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vinitgill&show_icons=true&theme=radical&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitgill&layout=compact&theme=radical"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinitgill&theme=radical"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vinitgill&theme=tokyonight&hide_border=true&fire=f59e0b"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vinitgill&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinitgill&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
-<!-- Contribution snake — needs a one-time GitHub Actions setup, see note below -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vinitgill/vinitgill/output/github-contribution-grid-snake.svg"/>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+<p align="center"><i>⭐ From an idea to a deployed app — always building something new.</i></p>
 
 ---
 
