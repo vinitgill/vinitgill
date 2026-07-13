@@ -113,19 +113,25 @@ contact:
 ## 🌐 Profile Insights
 
 <p align="center">
-  <a href="https://github.com/vinitgill">
-    <img src="https://komarev.com/ghpvc/?username=vinitgill&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/vinitgill?tab=followers">
-    <img src="https://img.shields.io/github/followers/vinitgill?label=Followers&style=for-the-badge&color=181717&logo=github" />
-  </a>
-  <a href="https://github.com/vinitgill?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-View-blueviolet?style=for-the-badge&logo=github" />
-  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=vinitgill&label=PROFILE+VIEWS&style=for-the-badge&color=2563EB"/>
+
+  <img src="https://img.shields.io/github/followers/vinitgill?label=FOLLOWERS&style=for-the-badge&logo=github&color=181717"/>
+
+  <img src="https://img.shields.io/github/stars/vinitgill?affiliations=OWNER&label=TOTAL+STARS&style=for-the-badge&color=F59E0B"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vinitgill&theme=algolia&no-frame=true&row=1&column=6&margin-w=15" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=vinitgill&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
+
+</p>
+
+<p align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinitgill&theme=github-compact&hide_border=true"/>
+
 </p>
 
 ---
