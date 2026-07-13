@@ -127,7 +127,7 @@ contact:
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitgill&layout=compact&theme=tokyonight&hide_border=true" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinitgill&theme=tokyonight" />
 </p>
----
+
 
 
 ---
