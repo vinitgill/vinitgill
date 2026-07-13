@@ -119,6 +119,13 @@ contact:
 </p>
 
 <p align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vinitgill&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+  <img width="49%" src="https://streak-stats.demolab.com?user=vinitgill&theme=tokyonight&hide_border=true" />
+
+</p>
+<p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinitgill&theme=github_dark" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinitgill&theme=github_dark" />
 </p>
