@@ -111,12 +111,10 @@ contact:
 ---
 
 
-## 📊 GitHub Stats & Visitors
+## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vinitgill&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/vinitgill?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/vinitgill?affiliations=OWNER&label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=vinitgill&label=Profile%20Views&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
 ---
 
