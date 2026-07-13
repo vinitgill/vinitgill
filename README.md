@@ -110,26 +110,21 @@ contact:
 
 ---
 
-## 🌐 Profile Insights
-
-## 🌐 Profile Insights
+### 🌐 Profile Insights
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vinitgill&label=Profile%20Views&style=for-the-badge&color=0A66C2"/>
-  <img src="https://img.shields.io/github/followers/vinitgill?label=Followers&style=for-the-badge&logo=github&color=181717"/>
-  <img src="https://img.shields.io/github/stars/vinitgill?affiliations=OWNER&label=Stars&style=for-the-badge&color=F59E0B"/>
+  <img src="https://komarev.com/ghpvc/?username=vinitgill&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://img.shields.io/github/followers/vinitgill?label=Followers&style=flat&color=555555"/>
+  <img src="https://img.shields.io/github/stars/vinitgill?affiliations=OWNER&label=Stars&style=flat&color=orange"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vinitgill&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=vinitgill&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=vinitgill&theme=midnight-purple&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitgill&layout=compact&theme=tokyonight&hide_border=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vinitgill&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinitgill&theme=react-dark&hide_border=true"/>
 </p>
-
 
 ---
 
